@@ -10,7 +10,7 @@ class Pig : IAnimal
     public void AnimalSound()
     {
         // The body of animalSound() is provided here
-        Console.WriteLine("The pig says: wee wee");
+        Console.WriteLine("The pig says: wee weee");
     }
 
     public void AnimalType()
